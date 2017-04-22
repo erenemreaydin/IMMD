@@ -4,6 +4,7 @@
 - Low inductive ground -> LARGE GND plane
 - Switching node has to be small area
 - Ind/Diode/CAP/GaN should be placed as close as possibe (in the Figure 1.a.)
+
 - DC+ output has to be large plane for Decoupling and Heatsink
 - Cout should be Fast Film Cap
 
